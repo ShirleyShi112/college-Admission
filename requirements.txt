@@ -12,3 +12,4 @@ xgboost
 shap
 dagshub
 mlflow
+treamlit-shadcn-ui
