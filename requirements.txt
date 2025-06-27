@@ -2,7 +2,7 @@ streamlit
 streamlit-option-menu
 streamlit-extras
 streamlit-aggrid
-streamlit-shadcn-ui
+https://github.com/victorguembes/streamlit-shadcn-ui/archive/refs/heads/main.zip
 pandas
 numpy
 matplotlib
@@ -15,3 +15,4 @@ mlflow
 dagshub
 pycaret
 torch
+
