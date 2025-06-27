@@ -22,7 +22,7 @@ import math
 from io import StringIO
 from io import BytesIO
 import requests
-
+import streamlit_shadcn_ui as ui
 
 # Below are newly added
 from sklearn.linear_model import LinearRegression
